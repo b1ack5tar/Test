@@ -1,2 +1,2 @@
 # Test
-This is just a useless private test repository.
+This is just a useless test repository.
